@@ -1,5 +1,5 @@
 # BitTorrent Protocol
-## Copyright Nedelcu Andrei-David
+## Copyright 2024 Nedelcu Andrei-David
 
 ### Structures used:
 - **FileSwarm**: Represents a swarm of information including file name, size, and list of clients with their owned segments.
