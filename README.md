@@ -1,7 +1,7 @@
 # BitTorrent Protocol
 ## Copyright Nedelcu Andrei-David
 
-### Structs:
+### Structures used:
 - **FileSwarm**: Represents a swarm of information including file name, size, and list of clients with their owned segments.
 - **ClientContentInfo**: Holds information about segments owned by a client in the swarm, including rank and segments.
 - **File**: Structure representing a file, containing name, size, and list of hashes.
